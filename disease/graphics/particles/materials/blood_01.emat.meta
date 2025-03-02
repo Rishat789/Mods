@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{0591FBE30861B92C}diseaseZombies/graphics/particles/blood_01.emat"
+ Author "ursula"
+ ChangeDate -981227932
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass LINUX : PC {
+  }
+ }
+}

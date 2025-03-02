@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{88B9661C78E8D404}disease/graphics/particles/blood_vomit_splash.ptc"
+ Author "ursula"
+ ChangeDate 1900209770
+ Configurations {
+  PTCResourceClass PC {
+  }
+  PTCResourceClass XBOX_ONE : PC {
+  }
+  PTCResourceClass PS4 : PC {
+  }
+  PTCResourceClass LINUX : PC {
+  }
+ }
+}

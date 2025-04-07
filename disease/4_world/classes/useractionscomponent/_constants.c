@@ -1,2 +1,0 @@
-const int AT_INJECT_RAGECURE_S = 567123;
-const int AT_INJECT_RAGECURE_T = 568123;

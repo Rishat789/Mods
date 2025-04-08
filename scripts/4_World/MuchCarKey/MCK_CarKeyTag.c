@@ -1,1 +1,0 @@
-class MCK_CarKeyTag_Base : ItemBase {};
